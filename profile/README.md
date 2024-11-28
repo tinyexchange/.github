@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-This is blockchain trading exchange.  
+This is Q's blockchain trading exchange.  
 
